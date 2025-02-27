@@ -7,21 +7,21 @@ Secondly, run [train.py](train.py) to train the model and test whether the image
 
 <p>
     <img src="bird.jpg" width=250 height=200>
-    <em>bird.jpg</em>
-    ```
-    This is a: bird.                                                                           
-    Probability it's a bird: 1.0000
-    ```
+    <figcaption>bird.jpg</figcaption>
 </p>
+```
+This is a: bird.                                                                           
+Probability it's a bird: 1.0000
+```
 
 <p>
     <img src="forest.jpg" width=250 height=200>
-    <em>forest.jpg</em>
-    ```
-    This is a: forest.                                                                         
-    Probability it's a bird: 0.0000
-    ```
+    <figcaption>forest.jpg</figcaption>
 </p>
+```
+This is a: forest.                                                                         
+Probability it's a bird: 0.0000
+```
 
 
 
